@@ -5,7 +5,7 @@
 ## Visão Geral 
 
 ###  Projeto 
-<b>Este é um projeto que faz parte de um desafio do site Frontend Mentor. O objetivo é desenvolver um aplicativo gerador de conselhos.
+<b>O objetivo é desenvolver um aplicativo de gerador de conselhos.
 
 ###  Desafio
 
@@ -23,9 +23,10 @@
 <div>
 Preview: <br>
   <img src="./src/images/desktop-preview.jpg" width="100%">
-   <br>
+   <br><br>
 Preview-mobile: <br> 
-<img src="./src/images/mobile-design.jpg" width="100%">
+<img src="./src/images/mobile-design.jpg">
+  <br><br>
 Preview com elementos interativos: <br>
   <img src="./src/images/active-states.jpg" width="100%">
  <br>
@@ -34,9 +35,9 @@ Preview com elementos interativos: <br>
 ### Links 
 <ul>
 <li><a href="https://github.com/fernanda-nunes/advice-generator-app-frontend-mentor" target="_blank">Repositórios</a></li>
-<li><a href="" target="_blank">Site ao vivo</a></li>
+<li><a href="https://fernanda-nunes.github.io/advice-generator-app-frontend-mentor/" target="_blank">Site ao vivo</a></li>
 </ul>
 
 ## O que eu aprendi 
 
-<b> Durante o desenvolvimento deste projeto, tive a oportunidade de consolidar e expandir minhas habilidades em desenvolvimento front-end e API.
+<b> Durante o desenvolvimento deste projeto, tive a oportunidade de consolidar e expandir minhas habilidades em desenvolvimento front-end e manipulação de API.
